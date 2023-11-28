@@ -1,0 +1,14 @@
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.exe
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.deps.json
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.runtimeconfig.json
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.dll
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.pdb
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.dll
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\refint\Example001_HelloConsole.dll
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.pdb
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Users\elovg\Desktop\myVSC\Example\Example001_HelloConsole\obj\Debug\net8.0\ref\Example001_HelloConsole.dll
