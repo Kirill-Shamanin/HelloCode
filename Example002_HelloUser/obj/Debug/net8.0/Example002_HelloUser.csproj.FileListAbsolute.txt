@@ -1,0 +1,15 @@
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.exe
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.deps.json
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.runtimeconfig.json
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.dll
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\bin\Debug\net8.0\Example002_HelloUser.pdb
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.sourcelink.json
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.dll
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\refint\Example002_HelloUser.dll
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.pdb
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Users\elovg\Desktop\myVSC\Example\Example002_HelloUser\obj\Debug\net8.0\ref\Example002_HelloUser.dll
